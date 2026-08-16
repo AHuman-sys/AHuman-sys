@@ -1,22 +1,59 @@
-<h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">A kid</h3>
+<h1 align="center">Hi 👋, I'm Felix Chiu</h1>
+<h3 align="center">Student</h3>
 
-- 🔭 I’m currently working on [Homelabbing](felixchiu.vercel.app)
-
-- 🌱 I’m currently learning **C**
-
-- 👨‍💻 All of my projects are available at [felixchiu.vercel.app](felixchiu.vercel.app)
-
-- 📝 I regularly write articles on [felixchiu.vercel.app](felixchiu.vercel.app)
-
-- 📄 Know about my experiences [felixchiu.vercel.app](felixchiu.vercel.app)
-
-- ⚡ Fun fact **I like potatoes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=AHuman-sys">
+    <img src="https://komarev.com/ghpvc/?username=AHuman-sys&label=Profile%20views&color=00FFFF&style=flat-square" alt="AHuman-sys's profile views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+## 📌 About Me
+- I'm currently learning C
+- I'm working on a datapack for my Minecraft Server
+
+
+## 🧠 My Focus Areas
+- Linux
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/AHuman-sys">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AHuman-sys&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="AHuman-sys's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=AHuman-sys&theme=dark&hide_border=true&cache_seconds=86400" alt="AHuman-sys's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=AHuman-sys&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Felix Chiu's GitHub Trophies" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/AHuman-sys">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AHuman-sys&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://felixchiu.vercel.app"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
